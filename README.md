@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a computer science student, currently in my second year of college! My favorite languages are Python and C++. I've worked with Python libraries such as Pygame and BeautifulSoup. I've also explored web development through working projects using Django and JavaScript.
+
+- 📫 How to reach me: mr.carlortiz@gmail.com
+
 <!--
 **carlortiz/carlortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
