@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a computer science student, currently in my second year of college! My favorite languages are Python and C++. I've worked with Python libraries such as Pygame and BeautifulSoup. I've also explored web development through building projects using Django and JavaScript.
+I am a computer science student, currently in my third year of college! 
 
-- 😄 ‎ Favorite languages: Python, C++
-- 🔭 ‎ Explored: Game Development, Web Scraping, Web Development
+- 😄 ‎ Langages: Python, C++, JavaScript, HTML, CSS
+- 🔭 ‎ Explored: Web Development, Game Development
+- 🔎 ‎ Interests: Aerospace-related Software, Computer Graphics Programming
 - 📫 ‎ How to reach me: mr.carlortiz@gmail.com
