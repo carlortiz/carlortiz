@@ -4,5 +4,5 @@ I am a computer science student, entering my third year of college! Right now, I
 
 - 😄 ‎ Langages: Python, C++, JavaScript, HTML, CSS
 - 🔭 ‎ Explored: Web Development, Game Development
-- 🔎 ‎ Interests: Aerospace-related Software, Computer Graphics Programming
+- 🔎 ‎ Interests: Aerospace Software Engineering, Computer Graphics Programming
 - 📫 ‎ How to reach me: mr.carlortiz@gmail.com
